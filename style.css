@@ -1,0 +1,39 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+nav {
+    background-color: antiquewhite;
+    width: fit-content;
+    padding: 20px;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.coiso {
+    color: red;
+}
+
+.coisa {
+    color: blue;
+}
+
+.coisas {
+    color: green;
+}
+
+.doido{
+    color: aqua;
+}
+
+.doida{
+    color: aquamarine;
+}
